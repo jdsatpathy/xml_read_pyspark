@@ -1,0 +1,34 @@
+_id,author,description,genre,price,publish_date,title
+bk101,"Gambardella, Matthew","An in-depth look at creating applications 
+      with XML.",Computer,44.95,2000-10-01,XML Developer's Guide
+bk102,"Ralls, Kim","A former architect battles corporate zombies, 
+      an evil sorceress, and her own childhood to become queen 
+      of the world.",Fantasy,5.95,2000-12-16,Midnight Rain
+bk103,"Corets, Eva","After the collapse of a nanotechnology 
+      society in England, the young survivors lay the 
+      foundation for a new society.",Fantasy,5.95,2000-11-17,Maeve Ascendant
+bk104,"Corets, Eva","In post-apocalypse England, the mysterious 
+      agent known only as Oberon helps to create a new life 
+      for the inhabitants of London. Sequel to Maeve 
+      Ascendant.",Fantasy,5.95,2001-03-10,Oberon's Legacy
+bk105,"Corets, Eva","The two daughters of Maeve, half-sisters, 
+      battle one another for control of England. Sequel to 
+      Oberon's Legacy.",Fantasy,5.95,2001-09-10,The Sundered Grail
+bk106,"Randall, Cynthia","When Carla meets Paul at an ornithology 
+      conference, tempers fly as feathers get ruffled.",Romance,4.95,2000-09-02,Lover Birds
+bk107,"Thurman, Paula","A deep sea diver finds true love twenty 
+      thousand leagues beneath the sea.",Romance,4.95,2000-11-02,Splish Splash
+bk108,"Knorr, Stefan","An anthology of horror stories about roaches,
+      centipedes, scorpions  and other insects.",Horror,4.95,2000-12-06,Creepy Crawlies
+bk109,"Kress, Peter","After an inadvertant trip through a Heisenberg
+      Uncertainty Device, James Salway discovers the problems 
+      of being quantum.",Science Fiction,6.95,2000-11-02,Paradox Lost
+bk110,"O'Brien, Tim","Microsoft's .NET initiative is explored in 
+      detail in this deep programmer's reference.",Computer,36.95,2000-12-09,Microsoft .NET: The Programming Bible
+bk111,"O'Brien, Tim","The Microsoft MSXML3 parser is covered in 
+      detail, with attention to XML DOM interfaces, XSLT processing, 
+      SAX and more.",Computer,36.95,2000-12-01,MSXML3: A Comprehensive Guide
+bk112,"Galos, Mike","Microsoft Visual Studio 7 is explored in depth,
+      looking at how Visual Basic, Visual C++, C#, and ASP+ are 
+      integrated into a comprehensive development 
+      environment.",Computer,49.95,2001-04-16,Visual Studio 7: A Comprehensive Guide
