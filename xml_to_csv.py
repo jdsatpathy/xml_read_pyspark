@@ -8,5 +8,5 @@ def main():
     conf = SparkConf.setAppName("XML to CSV").setMaster(master)
     spark = SparkSession.builder.config(conf=conf).getOrCreate()
     xml_file = spark.read.format("com.databricks.spark.xml").options(rootTag='catalog', rowTag='book').load(outputPath)
-    xml_file.show()
-	
+    xml_file.write.option("header", "true").csv(outputPath + "/output")
+
